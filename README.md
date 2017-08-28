@@ -1,5 +1,5 @@
 # うなりすと Ver1.0
-きーてーるー
+でーきーたー
 ## 利用規約
 規約はいつも通りこのへんに準拠  
 > <http://kisskiss.tv/kiss/diary.php?no=558>
