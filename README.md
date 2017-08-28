@@ -1,4 +1,4 @@
-# うなりすと Ver1.0
+# うなりすと Ver1.1
 でーきーたー
 ## 利用規約
 規約はいつも通りこのへんに準拠  
@@ -25,7 +25,7 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
 ### その他
 <dl>
     <dt>とけてないの？</dt>
-    <dd>とけてないよ</dd>
+    <dd>CM3D2.ShapeAnimator.Pluginでシェイプキーをtokeruに設定すると、とけるようになります。とけたVerも同梱してます。</dd>
     <dt>master追従だ！</dt>
     <dd>きーてーるー</dd>
     <dt>許可は</dt>
