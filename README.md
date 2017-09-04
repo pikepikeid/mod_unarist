@@ -29,7 +29,7 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
     <dt>master追従だ！</dt>
     <dd>きーてーるー</dd>
     <dt>許可は</dt>
-    <dd>とってません(小声</dd>
+    <dd>🙂</dd>
 </dl>
 
 ![作例](https://github.com/pikepikeid/mod_unarist/blob/master/una.png)
