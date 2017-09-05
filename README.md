@@ -4,8 +4,8 @@
 規約はいつも通りこのへんに準拠  
 > <http://kisskiss.tv/kiss/diary.php?no=558>
 ## 導入方法
-CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイル以外を全て入れてください。 
-### ファイル内訳 
+CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイル以外を全て入れてください。
+### ファイル内訳
 <dl>
     <dt>modelファイル<dt>
     <dd>モデルデータです。</dd>
@@ -29,7 +29,7 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
     <dt>master追従だ！</dt>
     <dd>きーてーるー</dd>
     <dt>許可は</dt>
-    <dd>🙂</dd>
+    <dd>🙂</dd>
 </dl>
 
 ![作例](https://github.com/pikepikeid/mod_unarist/blob/master/una.png)
