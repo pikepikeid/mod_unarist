@@ -1,10 +1,11 @@
-# うなりすと Ver1.2
+# うなりすと Ver1.3
 でーきーたー
 ## 利用規約
 規約はいつも通りこのへんに準拠  
 > <http://kisskiss.tv/kiss/diary.php?no=558>
 ## 導入方法
-CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイル以外を全て入れてください。
+* CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.pngや.blendファイル以外を全て入れてください。
+* COM3D2\MOD内に適当なフォルダを作成し、.pngや.blendファイル以外を全て入れてください。
 ### ファイル内訳
 <dl>
     <dt>modelファイル<dt>
@@ -16,7 +17,7 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
     <dt>texファイル<dt>
     <dd>テクスチャです。normalと書いてあるものが普通の顔です。</dd>
     <dt>blendファイル<dt>
-    <dd>Blenderのデータです。モデルの元データ、CM3D2上では使いません。</dd>
+    <dd>Blenderのデータです。モデルの元データ、CM3D2/COM3D2上では使いません。</dd>
 </dl>
 
 ### 使い方
@@ -33,3 +34,4 @@ CM3D2\Sybaris\GameData内に適当なフォルダを作成し、.blendファイ�
 </dl>
 
 ![作例](https://github.com/pikepikeid/mod_unarist/blob/master/una.png)
+![作例2](https://github.com/pikepikeid/mod_unarist/blob/master/una2.jpg)
