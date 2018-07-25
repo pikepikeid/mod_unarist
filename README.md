@@ -31,6 +31,8 @@
     <dd>きーてーるー</dd>
     <dt>許可は</dt>
     <dd>🙂</dd>
+    <dt>VTuber機能で使いたい</dt>
+    <dd>unarist氏曰く、「本人と関係ないことがはっきりわかる形なら好きにやってくれ」とのお気持ち表明ですが、ひとまずアクセサリーとしての扱いぐらいでお願いいたします。（そもそもアバター運用、無理がある気がする）</dd>
 </dl>
 
 ![作例](https://github.com/pikepikeid/mod_unarist/blob/master/una.png)
